@@ -1,4 +1,4 @@
-package NumberPrograms;
+package ArrayPrograms;
 
 public class FindSecondLargest {
 
