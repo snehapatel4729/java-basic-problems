@@ -9,6 +9,8 @@ public class FindEvenNumbers {
 	
 		List<Integer> list = Arrays.asList(4,7,2,1,8,3,0,9);
 		
+		
+		
 		list.stream()
 		.filter( n -> n % 2==0)
 		.forEach(System.out::println);
